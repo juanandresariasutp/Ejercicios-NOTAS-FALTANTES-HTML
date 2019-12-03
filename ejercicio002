@@ -1,0 +1,27 @@
+<html>
+<body>
+
+<h1>Atributos HTML</h1>
+
+<p>Se solicita organizar la página Web de modo que se visualice la siguiente información:</p>
+
+<img src="https://raw.githubusercontent.com/gilbertovargas/html-basico/master/balon-futbol.jpg" alt="balon-futbol.jpg" width="300" height="300">
+
+<img src="https://raw.githubusercontent.com/gilbertovargas/html-basico/master/tenis.jpg" alt="tenis.jpg" width="300" height="300">
+
+<img src="https://raw.githubusercontent.com/gilbertovargas/html-basico/master/raquetas.jpg" alt="raquetas.jpg" width="500" height="300">
+
+<p>Si la imagen tiene extensión 'gift', su apariencia es la de un objeto animado. La sintaxis de la instrucción es similar a la de la visualización de una imagen</p>
+
+<img src="https://raw.githubusercontent.com/gilbertovargas/html-basico/master/baloncesto.gif" alt="baloncesto.gif" width="80" height="80">
+
+<p style="font-size:65px; color:green;">Texto con estilo: color</p>
+
+<p style="font-size:30px; color:red;">Fruta: manzana</p>
+
+<p style="font-size:20px;">Tamaño y características de texto</p>
+
+<p style="font-size:45px; color:brown;">Texto con atributos de color y de tamaño</p>
+
+</body>
+</html>
